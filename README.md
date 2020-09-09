@@ -15,3 +15,6 @@ Made in python using numpy and pandas.
 <h3>Σx<sup>2</sup>y = a Σx<sup>2</sup> + b Σx<sup>3</sup> + c Σx<sup>4</sup></h3>
 
 <hr >
+
+## Note:
+- The data is got from [kaggle](https://kaggle.com) from [this page](https://www.kaggle.com/andonians/random-linear-regression)
